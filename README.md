@@ -4,7 +4,7 @@ A complete residential electrical design in Autodesk Revit, from a blank project
 printed sheet set. Beginner project, built in **November 2026** by following a
 5½-hour start-to-finish tutorial (see [Reference](#reference)).
 
-![3D site view](images/3d-site-view.png)
+
 
 ## Sheet set
 | Sheet | Title |
